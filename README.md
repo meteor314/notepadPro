@@ -4,7 +4,9 @@ Based on the powerful editing component Qt, Notepad Pro is written in C++. By op
 
 
 Clone the project : 
->   $ git clone https://github.com/meteor314/notepad_pro/
->   $ cd notepad_pro/
+```
+   $ git clone https://github.com/meteor314/notepad_pro/ 
+   $ cd notepad_pro/
+``` 
 
 Enjoy guys.
